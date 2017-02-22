@@ -1,0 +1,8 @@
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\obj\Debug\Conexion.Resources.resources
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\obj\Debug\Conexion.vbproj.GenerateResource.Cache
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\bin\Debug\Conexion.dll
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\bin\Debug\Conexion.pdb
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\bin\Debug\Conexion.xml
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\obj\Debug\Conexion.dll
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\obj\Debug\Conexion.xml
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\obj\Debug\Conexion.pdb

@@ -1,0 +1,12 @@
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Inicio.dll
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Inicio.pdb
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Inicio.xml
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Conexion.dll
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Conexion.pdb
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Conexion.xml
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Release\ProyectoHADS.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Release\Inicio.Resources.resources
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Release\ProyectoHADS.vbproj.GenerateResource.Cache
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Release\Inicio.dll
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Release\Inicio.xml
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Release\Inicio.pdb
