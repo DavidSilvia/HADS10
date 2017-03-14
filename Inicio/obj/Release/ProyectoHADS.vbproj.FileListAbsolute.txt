@@ -10,3 +10,15 @@ C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Releas
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Release\Inicio.dll
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Release\Inicio.xml
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Release\Inicio.pdb
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Inicio.dll
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Inicio.pdb
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Inicio.xml
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Conexion.dll
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Conexion.pdb
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Conexion.xml
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Release\ProyectoHADS.vbprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Release\Inicio.Resources.resources
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Release\ProyectoHADS.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Release\Inicio.dll
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Release\Inicio.xml
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Release\Inicio.pdb

@@ -32,7 +32,13 @@ Public Class Inicio
         End Try
         While RS.Read
             If (RS.Item("email") = TextBox1.Text) And (RS.Item("pass") = TextBox2.Text And (RS.Item("confirmado") = True)) Then
-                Response.Redirect("InicioLogin.aspx")
+                If (RS.Item("tipo") = "P") Then
+                    Session("email") = TextBox1.Text
+                    Response.Redirect("Profesor/Profesor.aspx")
+                ElseIf (RS.Item("tipo") = "A") Then
+                    Session("email") = TextBox1.Text
+                    Response.Redirect("Alumno/Alumno.aspx")
+                End If
             End If
         End While
     End Sub

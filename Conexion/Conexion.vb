@@ -7,9 +7,13 @@ Public Class Conexion
     Private Shared datos As SqlDataReader
     Private Shared actualizar As Integer
 
+    Public Shared Function obtenerconexion() As SqlConnection
+        Return conexion
+    End Function
+
     Public Shared Function conectar() As String
         Try
-            conexion.ConnectionString = "Data Source=tcp:hads10-17.database.windows.net,1433;Initial Catalog=HADS10_Usuarios;User ID=HADS10@hads10-17;Password=delfin_10"
+            conexion.ConnectionString = "Data Source=tcp:hadstareas10.database.windows.net,1433;Initial Catalog=HADS10_Tareas;Persist Security Info=False;User ID=HADS10@hadstareas10;Password=delfin_10"
             conexion.Open()
         Catch ex As Exception
             Return "ERROR DE CONEXIÓN: " + ex.Message
@@ -28,7 +32,7 @@ Public Class Conexion
         Try
             numregs = comando.ExecuteNonQuery()
         Catch ex As Exception
-            Return ex.Message
+            Return "No se ha podido insertar el registro"
         End Try
         Return (numregs & " registro(s) insertado(s) en la BD ")
     End Function
@@ -89,6 +93,17 @@ Public Class Conexion
         Return comando.ExecuteScalar()
     End Function
 
-
-
+    Public Shared Function instanciar(ByVal email As String, ByVal codTarea As String, ByVal hestimadas As String, ByVal hreales As String) As String
+        Dim hest = Integer.Parse(hestimadas)
+        Dim hrea = Integer.Parse(hreales)
+        Dim st = "insert into EstudiantesTareas values ('" & email & "', '" & codTarea & "', " & hest & ", " & hrea & ")"
+        Dim numregs As Integer
+        comando = New SqlCommand(st, conexion)
+        Try
+            numregs = comando.ExecuteNonQuery()
+        Catch ex As Exception
+            Return "No se ha podido instanciar la tareal"
+        End Try
+        Return ("La tarea se ha instanciado correctamente")
+    End Function
 End Class

@@ -25,8 +25,9 @@ Public Class Registro
         Randomize()
         numconfir = CLng(Rnd() * 9000000) + 1000000
         Label9.Text = insertarRegistro(email.Text, nombre.Text, apellidos.Text, pregunta.Text, respuesta.Text, dni.Text, numconfir, 0, pass.Text)
-        enviarEmail(email.Text, numconfir)
-
+        If (Label9.Text <> "No se ha podido insertar el registro") Then
+            enviarEmail(email.Text, numconfir)
+        End If
     End Sub
 
     Protected Sub Page_Unload(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Unload

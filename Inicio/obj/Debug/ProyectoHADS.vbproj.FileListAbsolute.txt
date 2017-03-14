@@ -1,12 +1,24 @@
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Debug\ProyectoHADS.vbprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Debug\Inicio.Resources.resources
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Debug\ProyectoHADS.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Debug\Inicio.dll
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Debug\Inicio.xml
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\obj\Debug\Inicio.pdb
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Inicio.dll
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Inicio.pdb
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Inicio.xml
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Conexion.dll
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Conexion.pdb
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Inicio\bin\Conexion.xml
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Inicio.dll
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Inicio.pdb
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Inicio.xml
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Conexion.dll
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Conexion.pdb
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Conexion.xml
+C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Debug\ProyectoHADS.vbprojResolveAssemblyReference.cache
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Debug\Inicio.Resources.resources
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Debug\ProyectoHADS.vbproj.GenerateResource.Cache
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Debug\Inicio.dll
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Debug\Inicio.xml
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Debug\Inicio.pdb
-C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\obj\Debug\ProyectoHADS.vbprojResolveAssemblyReference.cache
-C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Conexion.dll
-C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Conexion.pdb
-C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\bin\Conexion.xml

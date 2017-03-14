@@ -6,3 +6,11 @@ C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\bin\Debu
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\obj\Debug\Conexion.dll
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\obj\Debug\Conexion.xml
 C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Conexion\obj\Debug\Conexion.pdb
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Conexion\bin\Debug\Conexion.dll
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Conexion\bin\Debug\Conexion.pdb
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Conexion\bin\Debug\Conexion.xml
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Conexion\obj\Debug\Conexion.Resources.resources
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Conexion\obj\Debug\Conexion.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Conexion\obj\Debug\Conexion.dll
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Conexion\obj\Debug\Conexion.xml
+C:\Users\David\Documents\Ingeniería Informática\Ing.Inf.3º\2º Cuatrimestre\Herramientas Avanzadas de Diseño de Software\Inicio\Conexion\obj\Debug\Conexion.pdb
