@@ -29,10 +29,10 @@
             <asp:HyperLink ID="HyperLink3" runat="server">Grupos</asp:HyperLink>
             <br />
             <br />
-            <asp:HyperLink ID="HyperLink4" runat="server">Importar v. XMLDocument</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="ImportarTareasXMLDocument.aspx">Importar v. XMLDocument</asp:HyperLink>
             &nbsp;<br />
             <br />
-            <asp:HyperLink ID="HyperLink5" runat="server">Exportar</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="ExportarTareas.aspx">Exportar</asp:HyperLink>
             <br />
             <br />
             <asp:HyperLink ID="HyperLink6" runat="server">Importar v. DataSet</asp:HyperLink>

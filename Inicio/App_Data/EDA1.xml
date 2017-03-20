@@ -1,0 +1,23 @@
+<hads:tareas xmlns:hads="http://ji.ehu.es/has">
+  <tarea>
+    <Codigo>EDA13</Codigo>
+    <Descripcion>examen</Descripcion>
+    <HEstimadas>12</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Examen</TipoTarea>
+  </tarea>
+  <tarea>
+    <Codigo>EX-123</Codigo>
+    <Descripcion>examen</Descripcion>
+    <HEstimadas>3</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Examen</TipoTarea>
+  </tarea>
+  <tarea>
+    <Codigo>PruebaLab4</Codigo>
+    <Descripcion>probando ...</Descripcion>
+    <HEstimadas>1</HEstimadas>
+    <Explotacion>true</Explotacion>
+    <TipoTarea>Ejercicio</TipoTarea>
+  </tarea>
+</hads:tareas>
