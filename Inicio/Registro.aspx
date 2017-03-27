@@ -34,7 +34,6 @@
 &nbsp;
         <asp:TextBox ID="dni" runat="server"></asp:TextBox>
         <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ControlToValidate="dni" ErrorMessage="*" ForeColor="#CC0000"></asp:RequiredFieldValidator>
-        <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="dni" ErrorMessage="Introduzca un DNI válido" ForeColor="#CC0000" ValidationExpression="(\d{8})([-]?)([A-Z]{1})"></asp:RegularExpressionValidator>
         <br />
         <br />
         <asp:Label ID="Label5" runat="server" Text="Password:"></asp:Label>
@@ -61,6 +60,14 @@
 &nbsp;
         <asp:TextBox ID="respuesta" runat="server"></asp:TextBox>
         <asp:RequiredFieldValidator ID="RequiredFieldValidator8" runat="server" ControlToValidate="respuesta" ErrorMessage="*" ForeColor="#CC0000"></asp:RequiredFieldValidator>
+        <br />
+        <br />
+        <asp:Label ID="Label10" runat="server" Text="Eliga un rol:"></asp:Label>
+&nbsp;&nbsp;&nbsp;
+        <asp:DropDownList ID="DropDownList1" runat="server">
+            <asp:ListItem>Alumno</asp:ListItem>
+            <asp:ListItem>Profesor</asp:ListItem>
+        </asp:DropDownList>
         <br />
         <br />
         <asp:Button ID="Button1" runat="server" Text="Registrarse" />

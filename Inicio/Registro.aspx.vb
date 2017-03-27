@@ -22,9 +22,15 @@ Public Class Registro
 
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Dim numconfir
+        Dim quien
         Randomize()
         numconfir = CLng(Rnd() * 9000000) + 1000000
-        Label9.Text = insertarRegistro(email.Text, nombre.Text, apellidos.Text, pregunta.Text, respuesta.Text, dni.Text, numconfir, 0, pass.Text)
+        If DropDownList1.SelectedValue = "Profesor" Then
+            quien = "P"
+        Else
+            quien = "A"
+        End If
+        Label9.Text = insertarRegistro(email.Text, nombre.Text, pregunta.Text, respuesta.Text, dni.Text, quien, pass.Text)
         If (Label9.Text <> "No se ha podido insertar el registro") Then
             enviarEmail(email.Text, numconfir)
         End If
@@ -32,5 +38,9 @@ Public Class Registro
 
     Protected Sub Page_Unload(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Unload
         cerrarconexion()
+    End Sub
+
+    Protected Sub DropDownList1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles DropDownList1.SelectedIndexChanged
+
     End Sub
 End Class

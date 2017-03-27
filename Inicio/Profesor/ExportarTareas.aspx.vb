@@ -41,9 +41,6 @@ Public Class ExportarTareas
             oldNode.ParentNode.RemoveChild(oldNode)
         Next
 
-        ' Dim nsMgr As New XmlNamespaceManager(xmldocnew.NameTable)
-        'nsMgr.AddNamespace("hads", "http://ji.ehu.es/has")
-
         xmldocnew.Save("C:\Users\Usuario1\Desktop\UNI\UNI 3\SEGUNDO CUATRI\HADS\Inicio\Inicio\App_Data\" & DropDownList1.SelectedValue & ".xml")
 
     End Sub

@@ -1,5 +1,7 @@
 ﻿Imports System.Data.SqlClient
 Imports System.Net.Mail
+Imports System.Security.Cryptography
+Imports System.Text
 
 Public Class Conexion
     Private Shared conexion As New SqlConnection
@@ -25,8 +27,15 @@ Public Class Conexion
         conexion.Close()
     End Sub
 
-    Public Shared Function insertarRegistro(ByVal email As String, ByVal nombre As String, ByVal apellidos As String, ByVal pregunta As String, ByVal respuesta As String, ByVal dni As String, ByVal numconfir As Integer, ByVal confirmado As Integer, ByVal pass As String) As String
-        Dim st = "insert into Usuarios (email, nombre, apellidos, pregunta, respuesta, dni, numconfir, confirmado, pass) values ('" & email & "', '" & nombre & "', '" & apellidos & "', '" & pregunta & "', '" & respuesta & "', '" & dni & "', " & numconfir & ", " & confirmado & ", '" & pass & "')"
+    Public Shared Function insertarRegistro(ByVal email As String, ByVal nombre As String, ByVal pregunta As String, ByVal respuesta As String, ByVal dni As Integer, ByVal quien As String, ByVal pass As String) As String
+        'Para encriptar el password
+        Dim DES As New TripleDESCryptoServiceProvider
+        Dim MD5 As New MD5CryptoServiceProvider
+        DES.Key = MD5.ComputeHash(ASCIIEncoding.ASCII.GetBytes("qualityi"))
+        DES.Mode = CipherMode.ECB
+        Dim Buffer As Byte() = ASCIIEncoding.ASCII.GetBytes(pass)
+        pass = Convert.ToBase64String(DES.CreateEncryptor().TransformFinalBlock(Buffer, 0, Buffer.Length))
+        Dim st = "insert into Usuarios (email, nombre, pregunta, respuesta, dni, confirmado, grupo, tipo, pass) values ('" & email & "', '" & nombre & "', '" & pregunta & "', '" & respuesta & "', " & dni & ", 1, 2, '" & quien & "', '" & pass & "')"
         Dim numregs As Integer
         comando = New SqlCommand(st, conexion)
         Try

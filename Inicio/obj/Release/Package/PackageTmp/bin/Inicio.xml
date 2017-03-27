@@ -663,14 +663,6 @@ Control RequiredFieldValidator4.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Registro.RegularExpressionValidator2">
-	<summary>
-Control RegularExpressionValidator2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
 </member><member name="F:Inicio.Registro.Label5">
 	<summary>
 Control Label5.
@@ -770,6 +762,22 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 </member><member name="F:Inicio.Registro.RequiredFieldValidator8">
 	<summary>
 Control RequiredFieldValidator8.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Registro.Label10">
+	<summary>
+Control Label10.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Registro.DropDownList1">
+	<summary>
+Control DropDownList1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
