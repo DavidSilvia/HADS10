@@ -41,8 +41,20 @@ Public Class Inicio
             Dim Buffer As Byte() = ASCIIEncoding.ASCII.GetBytes(TextBox2.Text)
             pass = Convert.ToBase64String(DES.CreateEncryptor().TransformFinalBlock(Buffer, 0, Buffer.Length))
             If (RS.Item("email") = TextBox1.Text) And (pass = RS.Item("pass") And (RS.Item("confirmado") = True)) Then
+                Application.Lock()
+                Dim NA As Integer = Application.Contents("numeroalumnos")
+                Dim NP As Integer = Application.Contents("numeroprofes")
+                Dim AC As ArrayList = Application.Contents("alumnosconectados")
+                Dim PC As ArrayList = Application.Contents("profesconectados")
+
+                Session("email") = TextBox1.Text
+                Session("tipo") = RS.Item("tipo")
+
                 If (RS.Item("tipo") = "P") Then
-                    Session("email") = TextBox1.Text
+                    PC.Add(Session("email"))
+                    NP = Application.Contents("numeroprofes") + 1
+                    Application.Contents("numeroprofes") = NP
+                    Application.Contents("profesconectados") = PC
                     If (RS.Item("email") = "vadillo@ehu.es") Then
                         System.Web.Security.FormsAuthentication.SetAuthCookie("vadillo@ehu.es", False)
                     Else
@@ -50,10 +62,14 @@ Public Class Inicio
                     End If
                     Response.Redirect("Profesor/Profesor.aspx")
                 ElseIf (RS.Item("tipo") = "A") Then
-                    Session("email") = TextBox1.Text
+                    AC.Add(Session("email"))
+                    NA = Application.Contents("numeroalumnos") + 1
+                    Application.Contents("numeroalumnos") = NA
+                    Application.Contents("alumnosconectados") = AC
                     System.Web.Security.FormsAuthentication.SetAuthCookie("Alumno", False)
                     Response.Redirect("Alumno/Alumno.aspx")
                 End If
+                Application.UnLock()
             End If
         End While
     End Sub

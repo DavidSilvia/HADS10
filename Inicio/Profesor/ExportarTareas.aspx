@@ -1,5 +1,7 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="ExportarTareas.aspx.vb" Inherits="Inicio.ExportarTareas" %>
 
+<%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="ajaxToolkit" %>
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -33,6 +35,15 @@ WHERE ProfesoresGrupo.email=@Profesor">
             </asp:SqlDataSource>
             <br />
         <br />
+        <asp:Button ID="Button1" runat="server" Text="Exportar XML" />
+&nbsp;&nbsp;&nbsp;
+        <br />
+        <asp:Label ID="Label4" runat="server"></asp:Label>
+        <br />
+        <br />
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="Profesor.aspx">Menu Profesor</asp:HyperLink>
+        <br />
+        <br />
         <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CellPadding="4" DataKeyNames="Codigo" DataSourceID="SqlDataSource1" ForeColor="#333333" GridLines="None">
             <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
             <Columns>
@@ -53,19 +64,14 @@ WHERE ProfesoresGrupo.email=@Profesor">
             <SortedDescendingCellStyle BackColor="#FFFDF8" />
             <SortedDescendingHeaderStyle BackColor="#6F8DAE" />
         </asp:GridView>
+        <ajaxToolkit:DragPanelExtender ID="GridView1_DragPanelExtender" runat="server" TargetControlID="GridView1" />
         <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:HADS10_TareasConnectionString2 %>" SelectCommand="SELECT [Codigo], [Descripcion], [HEstimadas], [Explotacion], [TipoTarea] FROM [TareasGenericas] WHERE ([CodAsig] = @CodAsig)">
             <SelectParameters>
                 <asp:ControlParameter ControlID="DropDownList1" Name="CodAsig" PropertyName="SelectedValue" Type="String" />
             </SelectParameters>
         </asp:SqlDataSource>
-        <br />
-        <asp:Button ID="Button1" runat="server" Text="Exportar XML" />
-&nbsp;&nbsp;&nbsp;
-        <br />
-        <asp:Label ID="Label4" runat="server"></asp:Label>
-        <br />
-        <br />
-            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="Profesor.aspx">Menu Profesor</asp:HyperLink>
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
         <br />
         <br />
         <br />
