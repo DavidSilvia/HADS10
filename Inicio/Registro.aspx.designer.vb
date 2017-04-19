@@ -275,6 +275,24 @@ Partial Public Class Registro
     Protected WithEvents DropDownList1 As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
+    '''Control UpdatePanel1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents UpdatePanel1 As Global.System.Web.UI.UpdatePanel
+
+    '''<summary>
+    '''Control ScriptManager1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents ScriptManager1 As Global.System.Web.UI.ScriptManager
+
+    '''<summary>
     '''Control Button1.
     '''</summary>
     '''<remarks>
@@ -284,15 +302,6 @@ Partial Public Class Registro
     Protected WithEvents Button1 As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''Control HyperLink1.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents HyperLink1 As Global.System.Web.UI.WebControls.HyperLink
-
-    '''<summary>
     '''Control Label9.
     '''</summary>
     '''<remarks>
@@ -300,4 +309,13 @@ Partial Public Class Registro
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents Label9 As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''Control HyperLink1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents HyperLink1 As Global.System.Web.UI.WebControls.HyperLink
 End Class

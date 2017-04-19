@@ -6,7 +6,7 @@ Inicio
 </name>
 </assembly>
 <members>
-<member name="F:Inicio.Inicio.form1">
+<member name="F:Inicio.TareasAlumno.form1">
 	<summary>
 Control form1.
 </summary>
@@ -14,55 +14,15 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Inicio.Label1">
+</member><member name="F:Inicio.TareasAlumno.Panel1">
 	<summary>
-Control Label1.
+Control Panel1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Inicio.TextBox1">
-	<summary>
-Control TextBox1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Inicio.RequiredFieldValidator1">
-	<summary>
-Control RequiredFieldValidator1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Inicio.Label2">
-	<summary>
-Control Label2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Inicio.TextBox2">
-	<summary>
-Control TextBox2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Inicio.RequiredFieldValidator2">
-	<summary>
-Control RequiredFieldValidator2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Inicio.Button1">
+</member><member name="F:Inicio.TareasAlumno.Button1">
 	<summary>
 Control Button1.
 </summary>
@@ -70,15 +30,23 @@ Control Button1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Inicio.Label5">
+</member><member name="F:Inicio.TareasAlumno.Label1">
 	<summary>
-Control Label5.
+Control Label1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Inicio.Label3">
+</member><member name="F:Inicio.TareasAlumno.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.TareasAlumno.Label3">
 	<summary>
 Control Label3.
 </summary>
@@ -86,15 +54,23 @@ Control Label3.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Inicio.HyperLink1">
+</member><member name="F:Inicio.TareasAlumno.DropDownList1">
 	<summary>
-Control HyperLink1.
+Control DropDownList1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Inicio.Label4">
+</member><member name="F:Inicio.TareasAlumno.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.TareasAlumno.Label4">
 	<summary>
 Control Label4.
 </summary>
@@ -102,39 +78,150 @@ Control Label4.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Inicio.HyperLink2">
+</member><member name="F:Inicio.ExportarTareas.form1">
 	<summary>
-Control HyperLink2.
+Control form1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="P:Inicio.My.MyWebExtension.Computer">
+</member><member name="F:Inicio.ExportarTareas.Panel1">
 	<summary>
- Devuelve información sobre el equipo host.
- </summary>
-</member><member name="P:Inicio.My.MyWebExtension.User">
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.Label1">
 	<summary>
- Devuelve información del usuario web actual.
- </summary>
-</member><member name="P:Inicio.My.MyWebExtension.Request">
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.Label2">
 	<summary>
- Devuelve un objeto Request.
- </summary>
-</member><member name="P:Inicio.My.MyWebExtension.Response">
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.Label3">
 	<summary>
- Devuelve un objeto Response.
- </summary>
-</member><member name="P:Inicio.My.MyWebExtension.Log">
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.DropDownList1">
 	<summary>
- Devuelve el objeto de registro Asp.
- </summary>
-</member><member name="T:Inicio.My.MyWebExtension">
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.Tareas">
 	<summary>
- Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
- </summary>
-	<remarks></remarks>
+Control Tareas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.Button1">
+	<summary>
+Control Button1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.HyperLink1">
+	<summary>
+Control HyperLink1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.GridView1_DragPanelExtender">
+	<summary>
+Control GridView1_DragPanelExtender.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.ExportarTareas.ScriptManager1">
+	<summary>
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Confirmar.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Confirmar.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Confirmar.HyperLink1">
+	<summary>
+Control HyperLink1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Confirmar.Label5">
+	<summary>
+Control Label5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:Inicio.InsertarTarea.form1">
 	<summary>
 Control form1.
@@ -423,7 +510,27 @@ Control HyperLink2.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.form1">
+</member><member name="M:Inicio.dedicacionesMedias.dedicacionMedia.#ctor">
+	<remarks/>
+</member><member name="E:Inicio.dedicacionesMedias.dedicacionMedia.mediaCompleted">
+	<remarks/>
+</member><member name="M:Inicio.dedicacionesMedias.dedicacionMedia.media(System.String)">
+	<remarks/>
+</member><member name="M:Inicio.dedicacionesMedias.dedicacionMedia.mediaAsync(System.String)">
+	<remarks/>
+</member><member name="M:Inicio.dedicacionesMedias.dedicacionMedia.mediaAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Inicio.dedicacionesMedias.dedicacionMedia.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Inicio.dedicacionesMedias.dedicacionMedia">
+	<remarks/>
+</member><member name="T:Inicio.dedicacionesMedias.mediaCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Inicio.dedicacionesMedias.mediaCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Inicio.dedicacionesMedias.mediaCompletedEventArgs">
+	<remarks/>
+</member><member name="F:Inicio.Alumno.form1">
 	<summary>
 Control form1.
 </summary>
@@ -431,7 +538,7 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.Panel1">
+</member><member name="F:Inicio.Alumno.Panel1">
 	<summary>
 Control Panel1.
 </summary>
@@ -439,7 +546,7 @@ Control Panel1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.Label1">
+</member><member name="F:Inicio.Alumno.Label1">
 	<summary>
 Control Label1.
 </summary>
@@ -447,7 +554,7 @@ Control Label1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.Label2">
+</member><member name="F:Inicio.Alumno.Label2">
 	<summary>
 Control Label2.
 </summary>
@@ -455,31 +562,7 @@ Control Label2.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.Label3">
-	<summary>
-Control Label3.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.ExportarTareas.DropDownList1">
-	<summary>
-Control DropDownList1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.ExportarTareas.Tareas">
-	<summary>
-Control Tareas.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.ExportarTareas.Button1">
+</member><member name="F:Inicio.Alumno.Button1">
 	<summary>
 Control Button1.
 </summary>
@@ -487,15 +570,15 @@ Control Button1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.Label4">
+</member><member name="F:Inicio.Alumno.Panel2">
 	<summary>
-Control Label4.
+Control Panel2.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.HyperLink1">
+</member><member name="F:Inicio.Alumno.HyperLink1">
 	<summary>
 Control HyperLink1.
 </summary>
@@ -503,31 +586,55 @@ Control HyperLink1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.GridView1">
+</member><member name="F:Inicio.Alumno.HyperLink2">
 	<summary>
-Control GridView1.
+Control HyperLink2.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.GridView1_DragPanelExtender">
+</member><member name="F:Inicio.Alumno.HyperLink3">
 	<summary>
-Control GridView1_DragPanelExtender.
+Control HyperLink3.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.SqlDataSource1">
+</member><member name="F:Inicio.Alumno.UpdatePanel1">
 	<summary>
-Control SqlDataSource1.
+Control UpdatePanel1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.ExportarTareas.ScriptManager1">
+</member><member name="F:Inicio.Alumno.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Alumno.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Alumno.ListBox1">
+	<summary>
+Control ListBox1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Alumno.ScriptManager1">
 	<summary>
 Control ScriptManager1.
 </summary>
@@ -535,33 +642,25 @@ Control ScriptManager1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Confirmar.form1">
-	<summary>
-Control form1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Confirmar.Label4">
-	<summary>
-Control Label4.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Confirmar.HyperLink1">
-	<summary>
-Control HyperLink1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Confirmar.Label5">
+</member><member name="F:Inicio.Alumno.Label5">
 	<summary>
 Control Label5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Alumno.ListBox2">
+	<summary>
+Control ListBox2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Alumno.Timer1">
+	<summary>
+Control Timer1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -799,17 +898,25 @@ Control DropDownList1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Registro.Button1">
+</member><member name="F:Inicio.Registro.UpdatePanel1">
 	<summary>
-Control Button1.
+Control UpdatePanel1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Registro.HyperLink1">
+</member><member name="F:Inicio.Registro.ScriptManager1">
 	<summary>
-Control HyperLink1.
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Registro.Button1">
+	<summary>
+Control Button1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -823,137 +930,9 @@ Control Label9.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.Alumno.form1">
-	<summary>
-Control form1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.Panel1">
-	<summary>
-Control Panel1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.Label1">
-	<summary>
-Control Label1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.Label2">
-	<summary>
-Control Label2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.Button1">
-	<summary>
-Control Button1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.Panel2">
-	<summary>
-Control Panel2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.HyperLink1">
+</member><member name="F:Inicio.Registro.HyperLink1">
 	<summary>
 Control HyperLink1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.HyperLink2">
-	<summary>
-Control HyperLink2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.HyperLink3">
-	<summary>
-Control HyperLink3.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.UpdatePanel1">
-	<summary>
-Control UpdatePanel1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.Label3">
-	<summary>
-Control Label3.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.Label4">
-	<summary>
-Control Label4.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.ListBox1">
-	<summary>
-Control ListBox1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.ScriptManager1">
-	<summary>
-Control ScriptManager1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.Label5">
-	<summary>
-Control Label5.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.ListBox2">
-	<summary>
-Control ListBox2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.Alumno.Timer1">
-	<summary>
-Control Timer1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -1055,7 +1034,32 @@ Control HyperLink1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.CambiarPassword.form1">
+</member><member name="P:Inicio.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:Inicio.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:Inicio.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:Inicio.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:Inicio.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:Inicio.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Inicio.TareasProfesor.form1">
 	<summary>
 Control form1.
 </summary>
@@ -1063,79 +1067,15 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.CambiarPassword.Label8">
+</member><member name="F:Inicio.TareasProfesor.Panel1">
 	<summary>
-Control Label8.
+Control Panel1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.CambiarPassword.email">
-	<summary>
-Control email.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.CambiarPassword.RequiredFieldValidator6">
-	<summary>
-Control RequiredFieldValidator6.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.CambiarPassword.RegularExpressionValidator1">
-	<summary>
-Control RegularExpressionValidator1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.CambiarPassword.Label4">
-	<summary>
-Control Label4.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.CambiarPassword.Label5">
-	<summary>
-Control Label5.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.CambiarPassword.Label6">
-	<summary>
-Control Label6.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.CambiarPassword.respuesta">
-	<summary>
-Control respuesta.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.CambiarPassword.RequiredFieldValidator4">
-	<summary>
-Control RequiredFieldValidator4.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.CambiarPassword.Button1">
+</member><member name="F:Inicio.TareasProfesor.Button1">
 	<summary>
 Control Button1.
 </summary>
@@ -1143,41 +1083,81 @@ Control Button1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.CambiarPassword.Label7">
+</member><member name="F:Inicio.TareasProfesor.Label1">
 	<summary>
-Control Label7.
+Control Label1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.CambiarPassword.contraseña">
+</member><member name="F:Inicio.TareasProfesor.Label2">
 	<summary>
-Control contraseña.
+Control Label2.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.CambiarPassword.RequiredFieldValidator5">
+</member><member name="F:Inicio.TareasProfesor.Label3">
 	<summary>
-Control RequiredFieldValidator5.
+Control Label3.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.CambiarPassword.Button2">
+</member><member name="F:Inicio.TareasProfesor.UpdatePanel1">
+	<summary>
+Control UpdatePanel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.TareasProfesor.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.TareasProfesor.Tareas">
+	<summary>
+Control Tareas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.TareasProfesor.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.TareasProfesor.ScriptManager1">
+	<summary>
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.TareasProfesor.Tareas2">
+	<summary>
+Control Tareas2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.TareasProfesor.Button2">
 	<summary>
 Control Button2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.CambiarPassword.HyperLink1">
-	<summary>
-Control HyperLink1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -1343,7 +1323,7 @@ Control Timer1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasAlumno.form1">
+</member><member name="F:Inicio.CambiarPassword.form1">
 	<summary>
 Control form1.
 </summary>
@@ -1351,63 +1331,39 @@ Control form1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasAlumno.Panel1">
+</member><member name="F:Inicio.CambiarPassword.Label8">
 	<summary>
-Control Panel1.
+Control Label8.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasAlumno.Button1">
+</member><member name="F:Inicio.CambiarPassword.email">
 	<summary>
-Control Button1.
+Control email.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasAlumno.Label1">
+</member><member name="F:Inicio.CambiarPassword.RequiredFieldValidator6">
 	<summary>
-Control Label1.
+Control RequiredFieldValidator6.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasAlumno.Label2">
+</member><member name="F:Inicio.CambiarPassword.RegularExpressionValidator1">
 	<summary>
-Control Label2.
+Control RegularExpressionValidator1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasAlumno.Label3">
-	<summary>
-Control Label3.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.TareasAlumno.DropDownList1">
-	<summary>
-Control DropDownList1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.TareasAlumno.GridView1">
-	<summary>
-Control GridView1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.TareasAlumno.Label4">
+</member><member name="F:Inicio.CambiarPassword.Label4">
 	<summary>
 Control Label4.
 </summary>
@@ -1415,23 +1371,39 @@ Control Label4.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasProfesor.form1">
+</member><member name="F:Inicio.CambiarPassword.Label5">
 	<summary>
-Control form1.
+Control Label5.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasProfesor.Panel1">
+</member><member name="F:Inicio.CambiarPassword.Label6">
 	<summary>
-Control Panel1.
+Control Label6.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasProfesor.Button1">
+</member><member name="F:Inicio.CambiarPassword.respuesta">
+	<summary>
+Control respuesta.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.CambiarPassword.RequiredFieldValidator4">
+	<summary>
+Control RequiredFieldValidator4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.CambiarPassword.Button1">
 	<summary>
 Control Button1.
 </summary>
@@ -1439,79 +1411,31 @@ Control Button1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasProfesor.Label1">
+</member><member name="F:Inicio.CambiarPassword.Label7">
 	<summary>
-Control Label1.
+Control Label7.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasProfesor.Label2">
+</member><member name="F:Inicio.CambiarPassword.contraseña">
 	<summary>
-Control Label2.
+Control contraseña.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasProfesor.Label3">
+</member><member name="F:Inicio.CambiarPassword.RequiredFieldValidator5">
 	<summary>
-Control Label3.
+Control RequiredFieldValidator5.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:Inicio.TareasProfesor.UpdatePanel1">
-	<summary>
-Control UpdatePanel1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.TareasProfesor.DropDownList1">
-	<summary>
-Control DropDownList1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.TareasProfesor.Tareas">
-	<summary>
-Control Tareas.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.TareasProfesor.GridView1">
-	<summary>
-Control GridView1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.TareasProfesor.ScriptManager1">
-	<summary>
-Control ScriptManager1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.TareasProfesor.Tareas2">
-	<summary>
-Control Tareas2.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:Inicio.TareasProfesor.Button2">
+</member><member name="F:Inicio.CambiarPassword.Button2">
 	<summary>
 Control Button2.
 </summary>
@@ -1519,6 +1443,230 @@ Control Button2.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member><member name="F:Inicio.CambiarPassword.HyperLink1">
+	<summary>
+Control HyperLink1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.coordinador.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.coordinador.Panel1">
+	<summary>
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.coordinador.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.coordinador.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.coordinador.Panel2">
+	<summary>
+Control Panel2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.coordinador.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.coordinador.DropDownList1">
+	<summary>
+Control DropDownList1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.coordinador.Tareas">
+	<summary>
+Control Tareas.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.coordinador.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.TextBox1">
+	<summary>
+Control TextBox1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.RequiredFieldValidator1">
+	<summary>
+Control RequiredFieldValidator1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.TextBox2">
+	<summary>
+Control TextBox2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.RequiredFieldValidator2">
+	<summary>
+Control RequiredFieldValidator2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.Button1">
+	<summary>
+Control Button1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.Label5">
+	<summary>
+Control Label5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.HyperLink1">
+	<summary>
+Control HyperLink1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.Label4">
+	<summary>
+Control Label4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:Inicio.Inicio.HyperLink2">
+	<summary>
+Control HyperLink2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="M:Inicio.passwordsSeguros.passwordseguro.#ctor">
+	<remarks/>
+</member><member name="E:Inicio.passwordsSeguros.passwordseguro.esSeguroCompleted">
+	<remarks/>
+</member><member name="M:Inicio.passwordsSeguros.passwordseguro.esSeguro(System.String)">
+	<remarks/>
+</member><member name="M:Inicio.passwordsSeguros.passwordseguro.esSeguroAsync(System.String)">
+	<remarks/>
+</member><member name="M:Inicio.passwordsSeguros.passwordseguro.esSeguroAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Inicio.passwordsSeguros.passwordseguro.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Inicio.passwordsSeguros.passwordseguro">
+	<remarks/>
+</member><member name="T:Inicio.passwordsSeguros.esSeguroCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Inicio.passwordsSeguros.esSeguroCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Inicio.passwordsSeguros.esSeguroCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Inicio.servicioComprobarMatricula.Matriculas.#ctor">
+	<remarks/>
+</member><member name="E:Inicio.servicioComprobarMatricula.Matriculas.comprobarCompleted">
+	<remarks/>
+</member><member name="M:Inicio.servicioComprobarMatricula.Matriculas.comprobar(System.String)">
+	<remarks/>
+</member><member name="M:Inicio.servicioComprobarMatricula.Matriculas.comprobarAsync(System.String)">
+	<remarks/>
+</member><member name="M:Inicio.servicioComprobarMatricula.Matriculas.comprobarAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Inicio.servicioComprobarMatricula.Matriculas.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Inicio.servicioComprobarMatricula.Matriculas">
+	<remarks/>
+</member><member name="T:Inicio.servicioComprobarMatricula.comprobarCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Inicio.servicioComprobarMatricula.comprobarCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Inicio.servicioComprobarMatricula.comprobarCompletedEventArgs">
+	<remarks/>
 </member>
 </members>
 </doc>

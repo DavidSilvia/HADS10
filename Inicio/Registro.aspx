@@ -69,12 +69,20 @@
             <asp:ListItem>Profesor</asp:ListItem>
         </asp:DropDownList>
         <br />
+        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+            <ContentTemplate>
+                <asp:ScriptManager ID="ScriptManager1" runat="server">
+                </asp:ScriptManager>
+                <asp:Button ID="Button1" runat="server" Text="Registrarse" />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:Label ID="Label9" runat="server"></asp:Label>
+            </ContentTemplate>
+        </asp:UpdatePanel>
         <br />
-        <asp:Button ID="Button1" runat="server" Text="Registrarse" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Inicio.aspx">Inicio</asp:HyperLink>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Label ID="Label9" runat="server"></asp:Label>
+        <br />
+        &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Inicio.aspx">Inicio</asp:HyperLink>
+        &nbsp;&nbsp;
     </div>
     </form>
 </body>

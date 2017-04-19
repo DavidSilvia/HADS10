@@ -26,7 +26,7 @@
             <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Profesor/TareasProfesor.aspx">Asignaturas</asp:HyperLink>
             <br />
             <br />
-            <asp:HyperLink ID="HyperLink2" runat="server">Tareas</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Profesor/coordinador.aspx">Media de las tareas</asp:HyperLink>
             <br />
             <br />
             <asp:HyperLink ID="HyperLink3" runat="server">Grupos</asp:HyperLink>
